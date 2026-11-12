@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💸 GastoSmart
+# GastoSmart
 
 ### Documentación completa del proyecto
 
@@ -10,15 +10,15 @@
 ![Cohorte](https://img.shields.io/badge/cohorte-2025-2563eb?style=flat-square)
 ![Grupo](https://img.shields.io/badge/grupo-QWERTY123-7c3aed?style=flat-square)
 
-[🚀 Prototipo](https://gastosmart.tinidrop.app/) ·
-[📚 Documentación](#-documentación) ·
-[👥 Equipo](#-equipo)
+[Prototipo](https://gastosmart.tinidrop.app/) ·
+[Documentación](#documentación) ·
+[Colaboradores](#colaboradores)
 
 </div>
 
 ---
 
-## 📖 Sobre el proyecto
+## Sobre el proyecto
 
 **GastoSmart** es una aplicación para el **control de gastos personales** pensada para gente que
 abandona las apps financieras porque cargar cada gasto es tedioso.
@@ -34,39 +34,39 @@ modelo de datos, el plan de dirección del proyecto y el prototipo navegable.
 
 ---
 
-## 📚 Documentación
+## Documentación
 
 Cada entrega está en **PDF** (se lee directo en GitHub) y en **Word** (editable, versión original).
 
 | # | Etapa | PDF | Word | Qué contiene |
 |:-:|---|---|---|---|
-| 00 | **Equipo** | [📄 PDF](00-equipo/Integrantes-QWERTY123.pdf) | [📝 DOCX](00-equipo/Integrantes-QWERTY123.docx) | Nómina de los 10 integrantes del grupo. |
-| 01 | **Startup** | [📄 PDF](01-startup/Startup-Control-de-Gastos.pdf) | [📝 DOCX](01-startup/Startup-Control-de-Gastos.docx) | Definición de la startup: problema detectado, solución propuesta, funcionamiento de la automatización y análisis frente a otras apps. |
-| 02 | **Modelo Canvas** | [📄 PDF](02-canvas/Canvas-GastoSmart.pdf) | [📝 DOCX](02-canvas/Canvas-GastoSmart.docx) | Modelo de negocio en los 9 bloques del Canvas: propuesta de valor, segmentos, canales, ingresos, costos y aliados. |
-| 03 | **Encuesta y validación** | [📄 PDF](03-encuesta/Encuesta-y-Respuestas-GastoSmart.pdf) | [📝 DOCX](03-encuesta/Encuesta-y-Respuestas-GastoSmart.docx) | Diseño de la encuesta sobre hábitos de gasto y ahorro, más el análisis de las respuestas obtenidas. |
-| 04 | **MVP** | [📄 PDF](04-mvp/MVP-GastoSmart.pdf) | [📝 DOCX](04-mvp/MVP-GastoSmart.docx) | Producto Mínimo Viable: pantallas de resumen, movimientos, alta de gasto, presupuesto y metas. |
-| 05 | **MER** | [📄 PDF](05-mer/MER-GastoSmart.pdf) | [📝 DOCX](05-mer/MER-GastoSmart.docx) | Modelo Entidad-Relación: 7 conjuntos de entidades, atributos, claves primarias y foráneas, y entidad débil. |
-| 06 | **PMO** | [📄 PDF](06-pmo/PMO-Administracion-Proyectos-TI.pdf) | [📝 DOCX](06-pmo/PMO-Administracion-Proyectos-TI.docx) | Plan de Dirección del Proyecto y marco legal aplicado a la administración de proyectos de TI. |
-| 07 | **Prototipo** | [🌐 Web](https://gastosmart.tinidrop.app/) | [💻 HTML](07-prototipo/Prototipo-GastoSmart.html) | Prototipo funcional navegable, autocontenido en un solo archivo HTML. |
+| 00 | **Equipo** | [PDF](00-equipo/Integrantes-QWERTY123.pdf) | [DOCX](00-equipo/Integrantes-QWERTY123.docx) | Nómina de los 10 integrantes del grupo. |
+| 01 | **Startup** | [PDF](01-startup/Startup-Control-de-Gastos.pdf) | [DOCX](01-startup/Startup-Control-de-Gastos.docx) | Definición de la startup: problema detectado, solución propuesta, funcionamiento de la automatización y análisis frente a otras apps. |
+| 02 | **Modelo Canvas** | [PDF](02-canvas/Canvas-GastoSmart.pdf) | [DOCX](02-canvas/Canvas-GastoSmart.docx) | Modelo de negocio en los 9 bloques del Canvas: propuesta de valor, segmentos, canales, ingresos, costos y aliados. |
+| 03 | **Encuesta y validación** | [PDF](03-encuesta/Encuesta-y-Respuestas-GastoSmart.pdf) | [DOCX](03-encuesta/Encuesta-y-Respuestas-GastoSmart.docx) | Diseño de la encuesta sobre hábitos de gasto y ahorro, más el análisis de las respuestas obtenidas. |
+| 04 | **MVP** | [PDF](04-mvp/MVP-GastoSmart.pdf) | [DOCX](04-mvp/MVP-GastoSmart.docx) | Producto Mínimo Viable: pantallas de resumen, movimientos, alta de gasto, presupuesto y metas. |
+| 05 | **MER** | [PDF](05-mer/MER-GastoSmart.pdf) | [DOCX](05-mer/MER-GastoSmart.docx) | Modelo Entidad-Relación: 7 conjuntos de entidades, atributos, claves primarias y foráneas, y entidad débil. |
+| 06 | **PMO** | [PDF](06-pmo/PMO-Administracion-Proyectos-TI.pdf) | [DOCX](06-pmo/PMO-Administracion-Proyectos-TI.docx) | Plan de Dirección del Proyecto y marco legal aplicado a la administración de proyectos de TI. |
+| 07 | **Prototipo** | [Web](https://gastosmart.tinidrop.app/) | [HTML](07-prototipo/Prototipo-GastoSmart.html) | Prototipo funcional navegable, autocontenido en un solo archivo HTML. |
 
-> 💡 **Tip:** los PDF se generaron a partir de los `.docx` para que la documentación se pueda leer
+> **Tip:** los PDF se generaron a partir de los `.docx` para que la documentación se pueda leer
 > sin descargar nada. Si querés editar algún documento, usá la versión Word.
 
 ---
 
-## 🚀 Prototipo
+## Prototipo
 
 El prototipo está publicado y se puede probar en el navegador:
 
-### 👉 **[gastosmart.tinidrop.app](https://gastosmart.tinidrop.app/)**
+### [gastosmart.tinidrop.app](https://gastosmart.tinidrop.app/)
 
 - Incluye tema claro/oscuro, navegación por pestañas, alta de movimientos, presupuesto, metas y alertas.
 - También está versionado en el repo: [`07-prototipo/Prototipo-GastoSmart.html`](07-prototipo/Prototipo-GastoSmart.html).
-- ⚠️ El hosting es temporal: el link **expira el 12/12/2026**. Después de esa fecha, el archivo HTML del repositorio sigue funcionando localmente.
+- El hosting es temporal: el link **expira el 12/12/2026**. Después de esa fecha, el archivo HTML del repositorio sigue funcionando localmente.
 
 ---
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
 ```
 GastoSmart-Metodologia-Sistemas/
@@ -86,7 +86,16 @@ Cada carpeta contiene el **PDF** y el **DOCX** del mismo documento, con el mismo
 
 ---
 
-## 🧩 Diagramas descartados
+<!--
+## Video de presentación
+
+Pendiente: pegar el link de YouTube cuando esté disponible.
+
+[Ver video de presentación en YouTube](URL_DEL_VIDEO)
+
+-->
+
+## Diagramas descartados
 
 En [`descartados/`](descartados/) se conservan tres diagramas de iteraciones anteriores que **no**
 forman parte de la entrega final. Se mantienen como registro del proceso:
@@ -97,32 +106,32 @@ forman parte de la entrega final. Se mantienen como registro del proceso:
 
 ---
 
-## 👥 Equipo
+## Colaboradores
 
 **Grupo QWERTY123 — Cohorte 2025**
 
-| Integrante |
-|---|
-| Tomás Andrés |
-| Gustavo Omar Contreras |
-| Paul Romero |
-| Fernando Adaro |
-| Gustavo Rodríguez |
-| Agustín Santarena |
-| Gabriel Santarena |
-| Santiago Martín |
-| Nahuel Spikerman |
-| Jesús Chávez |
+| Integrante | GitHub |
+| ---------- | ------ |
+| Tomás Andrés | [@tomasandres520](https://github.com/tomasandres520) |
+| Gustavo Omar Contreras | [@GustavoOmar510](https://github.com/GustavoOmar510) |
+| Paul Romero | [@PaulRomero24](https://github.com/PaulRomero24) |
+| Fernando Adaro | [@feermza](https://github.com/feermza) |
+| Rodríguez Gustavo | [@GustavoRodriguez79](https://github.com/GustavoRodriguez79) |
+| Santarena Agustín | [@AgusSantarena](https://github.com/AgusSantarena) |
+| Santarena Gabriel | [@GabrielSantarena](https://github.com/GabrielSantarena) |
+| Martín Santiago | [@santy171004](https://github.com/santy171004) |
+| Spikerman Nahuel | [@nawe2](https://github.com/nawe2) |
+| Jesús Chávez | [@SSJesusChavez](https://github.com/SSJesusChavez) |
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 `Google Docs` · `Google Forms` · `draw.io` · `HTML5` · `CSS3` · `JavaScript`
 
 ---
 
-## 📝 Notas
+## Notas
 
 - Los documentos `.docx` son la fuente original del trabajo; los `.pdf` son una exportación para lectura.
 - El `.docx` del **MER** fue reparado para que abra correctamente en Microsoft Word: el archivo
@@ -137,6 +146,6 @@ forman parte de la entrega final. Se mantienen como registro del proceso:
 
 **Trabajo práctico académico — Metodología de Sistemas II, Cohorte 2025**
 
-Hecho con ☕ por el grupo QWERTY123
+Grupo QWERTY123
 
 </div>
