@@ -1,0 +1,15 @@
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporales de Microsoft Word
+~$*.doc
+~$*.docx
+
+# Video de presentación (excluido por tamaño)
+*.mp4
+
+# Editores
+.vscode/
+.idea/
