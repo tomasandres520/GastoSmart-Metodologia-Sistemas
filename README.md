@@ -11,6 +11,7 @@
 ![Grupo](https://img.shields.io/badge/grupo-QWERTY123-7c3aed?style=flat-square)
 
 [Prototipo](https://gastosmart.tinidrop.app/) ·
+[Video](https://youtu.be/I9KbTOrssSo) ·
 [Documentación](#documentación) ·
 [Colaboradores](#colaboradores)
 
@@ -86,14 +87,13 @@ Cada carpeta contiene el **PDF** y el **DOCX** del mismo documento, con el mismo
 
 ---
 
-<!--
 ## Video de presentación
 
-Pendiente: pegar el link de YouTube cuando esté disponible.
+[![Video de presentación de GastoSmart en YouTube](https://img.youtube.com/vi/I9KbTOrssSo/hqdefault.jpg)](https://youtu.be/I9KbTOrssSo)
 
-[Ver video de presentación en YouTube](URL_DEL_VIDEO)
+▶ [Ver el video de presentación en YouTube](https://youtu.be/I9KbTOrssSo)
 
--->
+---
 
 ## Diagramas descartados
 
